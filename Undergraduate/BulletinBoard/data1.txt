@@ -1,0 +1,152 @@
+21
+<begin_topic>
+:id: 1
+:subject: CS12 Assignment 7
+:from: messi
+:children: 6 9 14
+:body: The assignment is hard so go step by step.
+You can read the Tips & Tricks part for some help.
+Has anyone started already?
+<end>
+<begin_topic>
+:id: 2
+:subject: Your favorite TV show
+:from: ricq7
+:children: 3 5
+:body: So guys, what is your favorite tv show?
+<end>
+<begin_reply>
+:id: 3
+:subject: Re: Your favorite TV show
+:from: mike
+:children: 4
+:body: Game of Thrones is an awesome show but there are too
+many characters to remember.
+We even did not see half of the families and still at least 20
+important characters are introduced already.
+Is there anyplace that I can read about the characters?
+<end>
+<begin_reply>
+:id: 4
+:subject: Re: Re: Your favorite TV show
+:from: ricq7
+:children: 8
+:body: Well the book is one hell of a resource.
+And, the script is written very loyal to the text.
+<end>
+<begin_reply>
+:id: 5
+:subject: Re: Your favorite TV show
+:from: ali87
+:children: 7
+:body: Whose line is it anyway!!!
+Too bad, it is no more.
+<end>
+<begin_reply>
+:id: 6
+:subject: Re: CS12 Assignment 7
+:from: messi
+:body: BUMP
+<end>
+<begin_reply>
+:id: 7
+:subject: Re: Re: Your favorite TV show
+:from: jenny
+:body: The cat!
+Colin Mochrie is hilarious.
+<end>
+<begin_reply>
+:id: 8
+:subject: Re: Re: Re: Your favorite TV show
+:from: mike
+:body: I'll check that.
+Thanks.
+<end>
+<begin_reply>
+:id: 9
+:subject: Re: CS12 Assignment 7
+:from: messi
+:body: BUMP
+<end>
+<begin_topic>
+:id: 10
+:subject: Towel Day
+:from: messi
+:body: Bring your towels on May 25.
+See here: http://www.towelday.org/
+<end>
+<begin_topic>
+:id: 11
+:subject: kj
+:from: ali87
+:children: 13
+:body: jklj
+<end>
+<begin_topic>
+:id: 12
+:subject: adlfj
+:from: ali87
+:body: adfklj
+<end>
+<begin_reply>
+:id: 13
+:subject: Re: kj
+:from: ali87
+:body: alskdjf
+sdfds
+sdf
+<end>
+<begin_reply>
+:id: 14
+:subject: Re: CS12 Assignment 7
+:from: ali87
+:body: laksdjf
+lkj
+<end>
+<begin_topic>
+:id: 15
+:subject: lk
+:from: ali87
+:body: j
+<end>
+<begin_topic>
+:id: 16
+:subject: q
+:from: ali87
+:body: q
+<end>
+<begin_topic>
+:id: 17
+:subject: lkjaslkdf
+:from: ali87
+:body: 
+<end>
+<begin_topic>
+:id: 18
+:subject: 
+:from: ali87
+:children: 19
+:body: 
+<end>
+<begin_reply>
+:id: 19
+:subject: Re: 
+:from: ali87
+:children: 20
+:body: 
+<end>
+<begin_reply>
+:id: 20
+:subject: Re: Re: 
+:from: ali87
+:children: 21
+:body: kljlkj
+<end>
+<begin_reply>
+:id: 21
+:subject: Re: Re: Re: 
+:from: ali87
+:body: 
+lkj
+lkj
+<end>

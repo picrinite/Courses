@@ -1,0 +1,10 @@
+10
+<begin_topic>
+:id: 1
+:subject: CS12 Assignment 7
+:from: messi
+:children: 6 9
+:body: The assignment is hard so go step by step.
+You can read the Tips & Tricks part for some help.
+Has anyone started already?
+<end>
