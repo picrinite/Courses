@@ -1,9 +1,4 @@
 // Course:            CS 100
-// First Name:        Xing
-// Last Name:         Zhang
-// ID Number:         860935445
-// Email address:     xzhan018@ucr.edu
-// TA:                Mike Izbicki
 //  I certify that all the codes are my own original work.
 // =======================================================================
 #include <signal.h>
